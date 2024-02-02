@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio site made with bootstrap 5",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnatticus/bootstrap-portfolio.git"
+  },
+  "author": "John Atticus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnatticus/bootstrap-portfolio/issues"
+  },
+  "homepage": "https://github.com/johnatticus/bootstrap-portfolio#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "bootstrap": "^5.3.2",
+    "sass": "^1.70.0"
+  }
+}

@@ -1,4 +1,13 @@
+$font-family-sans-serif: 'Oswald', sans-serif;
+
 // Bootstrap Variables
-$grey: #333333;
+$primary: #646464;
+$secondary: #ff0000;
+$dark: #333333;
+$light: #f4f4f4;
+
+
+$navbar-padding-y: 1rem;
+$navbar-dark-hover-color: #fff;
 
 @import '../node_modules/bootstrap/scss/bootstrap';

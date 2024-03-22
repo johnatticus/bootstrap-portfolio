@@ -30,6 +30,11 @@ nav {
     opacity: 0.8;
   }
 
+  .services .container {
+    z-index: 10;
+  }
+  
+
   @media (max-width: 767px) {
     .header .social i {
       font-size: 30px;

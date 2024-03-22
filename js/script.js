@@ -2,7 +2,7 @@ function userScroll() {
     const navbar = document.querySelector('.navbar');
   
     window.addEventListener('scroll', () => {
-      if (window.scrollY > 150) {
+      if (window.scrollY > 200) {
         navbar.classList.add('bg-primary');
         navbar.classList.add('navbar-sticky');
       } else {

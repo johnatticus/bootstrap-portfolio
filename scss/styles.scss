@@ -1,9 +1,11 @@
 $grey: #363636;
 
 .header {
-    background-color: black;
-    color: white;
+  background: #151515 url("../images/headerbg.jpg") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
 }
+
 body {
     font-weight: 200;
 }
